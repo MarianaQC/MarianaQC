@@ -24,7 +24,7 @@
 ### 🖼️ GIF mood
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1lZnN5YTVvYWh4aGp1OHZ6ZjN3bGZrdWk3bWVsbWdwd3N5aGQ5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="450" alt="Coding gif">
+  <img src="https://i.gifer.com/DU0.gif" width="450" alt="Coding gif">
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ### ⚙️ Tecnologías que uso y amo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,django,mongodb,postgres,git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,django,mongodb,postgres,git,github,vscode,figma,linux,C#" />
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ### 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarianaQC&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaQc&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 > *"El mejor código es aquel que no solo funciona, sino que también inspira."* ✨  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Noc3p1MzMybHdkem5vdWg4eDdsYmhpZmxpdmF1Znl0NWptbW1obSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0ExncehJzexFpRHq/giphy.gif" width="350" alt="inspiration gif">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1Aupd7URIoNRYaJJ81BLXn8jAjaXQ-CWcQ&s" width="350" alt="inspiration gif">
 </p>
 
 ---
