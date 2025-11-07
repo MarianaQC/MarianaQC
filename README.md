@@ -62,7 +62,7 @@
 > *"El mejor código es aquel que no solo funciona, sino que también inspira."* ✨  
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1Aupd7URIoNRYaJJ81BLXn8jAjaXQ-CWcQ&s" width="350" alt="inspiration gif">
+  <img src="https://i.makeagif.com/media/7-14-2014/oS9xd1.gif" width="350" alt="inspiration gif">
 </p>
 
 ---
